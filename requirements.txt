@@ -1,11 +1,8 @@
 numpy 
 pandas
-norm from scipy.stats
-matplolib.pyplot
+scipy
+matplotlib
 seaborn
-plotly.graph_objects
+plotly
 yfinance
 streamlit 
-from black_scholes import black_scholes, black_scholes_greeks
-from monte_carlo_pricing import monte_carlo_option_pricing
-from implied_volatility import implied_volatility
